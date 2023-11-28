@@ -41,6 +41,14 @@
                     <view key="view" contentMode="scaleToFill" id="JxT-lO-24v">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WrR-CW-THa">
+                                <rect key="frame" x="163" y="643" width="89" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Button 2"/>
+                            </button>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="6Yy-sm-4ou"/>
                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                     </view>
